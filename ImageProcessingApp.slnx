@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ImageProcessing.Core/ImageProcessing.Core.csproj" />
+  <Project Path="ImageProcessing.UI/ImageProcessing.UI.csproj" />
+</Solution>
